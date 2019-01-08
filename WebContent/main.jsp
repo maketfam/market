@@ -9,7 +9,7 @@
 <title>메인</title>
 </head>
 
-<body>
+<body> 
 <br>
 <div align='right'>
 <input type=button value = "로그인" onclick="location.href='login_look.jsp'"/>

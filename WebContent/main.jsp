@@ -20,7 +20,7 @@
 <br>  
 <select name = "col" style="width: 77px; height: 30px; ">
 	<option value = "category">카테고리</option>
-	<option value = "clothing">의류</option>
+	<option value = "clothing">의류</option> 
 	<option value = "shose">신발</option>
 	<option value = "food">음식</option>
 </select>

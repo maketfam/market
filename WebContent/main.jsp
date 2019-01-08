@@ -11,7 +11,7 @@
 
 <body> 
 <br>
-<div align='right'>
+<div align='right'> 
 <input type=button value = "로그인" onclick="location.href='login_look.jsp'"/>
 <input type=button value = "회원가입" onclick="location.href="/>
 <input type=button value = "장바구니" onclick="location.href="/>

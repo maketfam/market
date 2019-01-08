@@ -35,6 +35,7 @@
 			<th>날짜</th>
 		</tr>
 </table>
+<%-- 최근 상품목록이 들어갈 자리  --%>
 <br>
 <div align="right">
 <input type=button value = "관리 페이지" onclick="location.href="/></div>

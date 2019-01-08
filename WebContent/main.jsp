@@ -18,15 +18,16 @@
 <input type=button value = "내목록" onclick="location.href="/>
 </div>
 <br>  
+<form action="">
 <select name = "col" style="width: 77px; height: 30px; ">
 	<option value = "category">카테고리</option>
 	<option value = "clothing">의류</option> 
 	<option value = "shose">신발</option>
 	<option value = "food">음식</option>
 </select>
-<input type="text" style="width: 221px; ">
-<input type=button value = "검색" onclick="location.href="/>
-
+<input type="text" name = "searchkey" style="width: 221px; ">
+<button type="submit" >검색</button>
+</form>
 <table>
 		<tr>
 			<th>No</th>
@@ -38,7 +39,7 @@
 <%-- 최근 상품목록이 들어갈 자리  --%>
 <br>
 <div align="right">
-<input type=button value = "관리 페이지" onclick="location.href="/></div>
+<input type=button value = "관리 페이지" onclick="location.href='management.jsp'"/></div>
 </body>
 
 </html>

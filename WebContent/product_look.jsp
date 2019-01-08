@@ -32,7 +32,7 @@ charset=UTF-8" pageEncoding="UTF-8"%>
 <table>
 <tr><td>추천상품</td></tr>
 </table>
-<h4>리뷰</h4>
+<h4>리뷰ㄷ</h4>
 <tr><td width="30">작성자</td>
 <td width="150">내용</td></tr>
 <form>

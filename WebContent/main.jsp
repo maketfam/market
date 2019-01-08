@@ -18,13 +18,13 @@
 <input type=button value = "내목록" onclick="location.href="/>
 </div>
 <br>
-<select name = "col" >
+<select name = "col" style="width: 77px; height: 30px; ">
 	<option value = "category">카테고리</option>
-	<option value = "clo">의류</option>
+	<option value = "clothing">의류</option>
 	<option value = "shose">신발</option>
 	<option value = "food">음식</option>
 </select>
-<input type="text" width='100' height='10'>
+<input type="text" style="width: 221px; ">
 <input type=button value = "검색" onclick="location.href="/>
 
 <table>

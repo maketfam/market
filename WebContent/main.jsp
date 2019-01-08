@@ -17,7 +17,7 @@
 <input type=button value = "장바구니" onclick="location.href="/>
 <input type=button value = "내목록" onclick="location.href="/>
 </div>
-<br>
+<br> 
 <select name = "col" style="width: 77px; height: 30px; ">
 	<option value = "category">카테고리</option>
 	<option value = "clothing">의류</option>

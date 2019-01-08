@@ -12,6 +12,6 @@
 <h2>결제수단</h2>
 <input type="radio" name="op" value="op1" checked="checked"><label>신용카드</label>
 <input type="radio" name="op" value="op2"><label>계좌이체</label><br><br>
-<input type="button" name="ac" value="결제하기" style="display: block; width: 183px;&gt;">
+<input type="button" name="pay" value="결제하기" style="display: block; width: 183px;&gt;">
 </body>
 </html>

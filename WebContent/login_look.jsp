@@ -15,7 +15,7 @@ charset=UTF-8" pageEncoding="UTF-8"%>
 <td>아이디: <input type= "text" name="idx"></td>
 </tr>
 <tr>
-<td>비밀번호: <input type= "text" name="pass"</td>
+<td>비밀번호: <input type= "text" name="pass"/></td>
 </tr>
 <tr>
 <td><input type="submit" value="로그인" /></td>

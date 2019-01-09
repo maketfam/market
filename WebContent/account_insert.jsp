@@ -22,7 +22,7 @@ try{
 	String url = "jdbc:mysql://192.168.1.68:3306/shopping";
 	Class.forName(driverName);
 	Connection con = DriverManager.getConnection(url,"root","1234");
-	out.println("오라클 성공ㄴ");
+	out.println("오라클 성공");
 	Statement stmt = con.createStatement();
 
 	String sql = "INSERT INTO shopping.members(IDX,PASS,CPASS,NAMES,PH,AD,OP)"+

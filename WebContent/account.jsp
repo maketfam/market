@@ -17,7 +17,7 @@
 주소&emsp;&emsp;&emsp;&nbsp;<input type=text name="ad"><br><br>
 <input type="radio" name="op" value="op1" checked="checked"><label>구매자</label>
 <input type="radio" name="op" value="op2"><label>판매자</label>&emsp;&emsp;&emsp;&emsp;
-<input type="button" name="ac" value="회원가입" style="display: block; width: 183px;&gt;">
+<input type="button" name="account" value="회원가입" style="display: block; width: 183px;&gt;">
 <input type="button" name="cen" value="취소" style="display: block; width: 183px;&gt;">
 </body>
 </html>

@@ -19,7 +19,7 @@ charset=UTF-8" pageEncoding="UTF-8"%>
 </tr>
 <tr>
 <td><input type="submit" value="로그인" /></td>
-<td><input type = "button" onclick ="location.href='main.jsp'" value="회원가입"/></td>
+<td><input type = "button" onclick ="location.href='account.jsp'" value="회원가입"/></td>
 </tr>
 </form>
 </table>
